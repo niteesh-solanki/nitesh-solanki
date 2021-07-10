@@ -1,4 +1,4 @@
-### Hi there, I'm [Nitesh!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Nitesh!](https://solanki-nitesh.github.io) 👋
 
 
 Hi, I'm Nitesh Solanki, a passionate self-taught full stack developer from Gujarat, India.
@@ -7,6 +7,10 @@ Hi, I'm Nitesh Solanki, a passionate self-taught full stack developer from Gujar
 - 🌱 Doing what I love 🤣
 - 👯 I’m looking to collaborate on open source projects 🤝
 - 💬 Ask me about anything [here](https://github.com/solanki-nitesh/solanki-nitesh/issues)
+- 📫 How to reach me: Ping me on [whats-app] or say 👋  on Email at [Nitesh Solanki](mailto:solankiniteshs77@gmail.com)
+
+### 📊 GitHub Stats:
+![Nitesh Solanki's github stats](https://github-readme-stats.vercel.app/api?username=solanki-nitesh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ### Connect with me :smiley:
 
